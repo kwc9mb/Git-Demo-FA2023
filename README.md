@@ -1,6 +1,6 @@
 # Git Demo: Kendall Crockett
 
-Actually learning Git!
+Actually learning Git!!!!!!!!
 
 Gonna Learn Cool Stuff
 
@@ -9,3 +9,5 @@ Gonna Learn Cool Stuff
 - git push
 - git clone
 
+## Cool Stuff
+- Learning Branch
